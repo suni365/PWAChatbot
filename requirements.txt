@@ -2,7 +2,7 @@ streamlit
 streamlit-webrtc
 numpy
 pandas
-openai  # If using OpenAI API
-torch    # If using PyTorch
+openai  
+torch    
 speechrecognition
 pyaudio
